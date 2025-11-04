@@ -1,0 +1,10 @@
+# Create a virtual environment
+# Windows: python -m venv venv
+# Activate the virtual environment
+# Windows: venv\Scripts\activate
+
+# Install required packages
+# pip install fastapi uvicorn streamlit scikit-learn pandas spotipy requests python-multipart
+
+# Save dependencies to requirements.txt
+# pip freeze > requirements.txt

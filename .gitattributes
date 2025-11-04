@@ -1,2 +1,0 @@
-data/MP3-Example/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
-data/*.csv filter=lfs diff=lfs merge=lfs -text
